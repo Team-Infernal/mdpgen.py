@@ -1,0 +1,28 @@
+{
+	"version": "1.0.0",
+	"authors": [
+		{
+			"name": "Git-Rigoras",
+			"git": "https://github.com/Git-Rigoras"
+		},
+		{
+			"name": "INF-Zenyth",
+			"git": "https://github.com/INF-Zenyth"
+		}
+	],
+	"default": {
+		"profileID": "0"
+	},
+	"profiles": [
+		{
+			"name": "Default Profile",
+			"length": "8",
+			"modes": [
+				"lettersLower",
+				"lettersUpper",
+				"numbers",
+				"specialCharacters"
+			]
+		}
+	]
+}
