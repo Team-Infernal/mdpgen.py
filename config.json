@@ -10,23 +10,10 @@
             "github": "https://github.com/INF-Zenyth"
         }
     ],
-    "default": {
-        "profileID": 0
-    },
     "profiles": [
         {
-            "name": "Default Profile",
-            "length": "8",
-            "chars": [
-                "lettersLower",
-                "lettersUpper",
-                "numbers",
-                "specialCharacters"
-            ]
-        },
-        {
-            "name": "Test",
-            "length": "8",
+            "name": "Default",
+            "length": 16,
             "chars": [
                 "1",
                 "2",
